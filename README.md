@@ -1,4 +1,4 @@
-# hardware
+# The best hardware
 
 ## 3D Printer files
 This section includes all the necessary files to 3D print every plastic part needed for this project.
